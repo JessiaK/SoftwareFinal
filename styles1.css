@@ -1,0 +1,182 @@
+﻿body{
+	background-image: url('BudgetPics/bh2.jpg');
+	background-repeat: no-repeat;
+	width:100%;
+	height:100%;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	font-family: Footlight MT Light, serif;
+	margin-left: 3%;
+	margin-right: 3%;
+	background-position: center;
+	font-size: 1em;
+}
+
+.info{
+
+	text-align:center;
+	font-family:Harrington;
+	font-size:20px;
+	color:white;
+	font-weight:bold;
+	
+	
+}
+
+.inputs{
+	
+	width:200px;
+	height:30px;
+}
+.info2{
+
+	
+	font-family:Harrington;
+	font-size:20px;
+	color:white;
+	font-weight:bold;
+	
+	
+}
+.regtext{
+	
+	font-family:"Book Antiqua";
+	font-size:20px;
+	color:black;
+	font-style:normal;
+	white-space:pre-wrap;
+	margin-right:auto;
+	margin-left:auto; 
+	vertical-align: baseline;
+}
+
+.buttons{
+	
+	width:150px;
+	height:50px;
+	text-align:center;
+	color:green;
+	font-family:Consolas;	
+}
+.bioinfo{
+	
+	font-family:Consolas;
+	font-size:25px;
+	color:white;
+	font-style:normal;
+}
+
+.heading2{
+	
+	color:#FFFFFF;
+	font-size:30px;
+	font-weight:normal;
+	font-family:Harrington;
+	
+}
+
+.titles{
+     
+     font-family:impact;
+     color:#ffffff;
+     text-align:left;
+     font-weight:normal;
+     font-size:2em;
+     text-align:center;
+     	 
+	
+}
+
+.intro {
+margin-right: 250px;
+margin-top:auto;
+overflow:auto;
+}
+
+
+.img{
+float:right;
+height:auto;
+}​
+
+
+p.left{
+ 
+    left-margin:3em;
+    right-margin:3em;
+    text-indent:4em;
+    font-size:1.4em;
+    position:inherit;
+    padding-right:inherit;
+    
+    
+  }
+  
+p.left2{
+
+  left-margin:3em;
+  right-margin:3em;
+  font-size:1.4em;
+  position:inherit;
+  padding-right:inherit;
+
+  
+   
+
+}
+
+
+
+#links{
+	
+	font-style:normal;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+	color:#ffff00;
+	font-size:1.2em;
+	z-index:2;
+}
+
+#bigheading{
+	
+	font-family:Lucida Handwriting, serif;
+	color:#D9CEC1;
+	font-size:2em;
+	font-weight:bold;
+}
+
+#heading3{
+	
+	color:#F2DEA2;
+	text-align:center;
+	font-family:Lucida Handwriting, serif;
+	font-size:2em;
+	font-style:normal;
+}
+
+#list{
+	
+	color:#BCEBC7;
+	font-family:Book Antiqua, serif;
+	font-size:1.3em;
+	z-index:2;
+	
+}
+
+#bigger{
+	
+	font-size:1.3em;
+}
+
+a:link {
+	color: #FCE3E4;
+	margin-right: auto;
+}    
+a:visited { color:#ffff00; }  
+a:active { color:#2e8b57; }  
+a:hover { color:#fafad2; background:green;} 
+
+.bodycolor{
+	
+	background-color:#FFFFCC;
+}
